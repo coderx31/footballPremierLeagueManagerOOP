@@ -23,4 +23,4 @@ Run above command in terminal then IDE will automatically install all the depend
 <img src = "https://github.com/coderx31/footballPremierLeagueManagerOOP/blob/master/screenshots/allPlayedMatch.png">
 
 # Played Match By Date
-<omg src = "https://github.com/coderx31/footballPremierLeagueManagerOOP/blob/master/screenshots/matchByDate.png">
+<img src = "https://github.com/coderx31/footballPremierLeagueManagerOOP/blob/master/screenshots/matchByDate.png">
